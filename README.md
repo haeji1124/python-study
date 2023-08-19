@@ -1,2 +1,2 @@
 # python-study
-파이썬 관련 공부한 내용 올리기
+[github ipynb파일 잘 안보일때](https://nbviewer.org/)https://nbviewer.org/
